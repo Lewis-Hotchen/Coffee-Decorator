@@ -1,0 +1,7 @@
+C:\Users\l.hotchen\source\repos\CoffeeDecorator\CoffeeDecorator\obj\Debug\CoffeeDecorator.csprojAssemblyReference.cache
+C:\Users\l.hotchen\source\repos\CoffeeDecorator\CoffeeDecorator\obj\Debug\CoffeeDecorator.csproj.CoreCompileInputs.cache
+C:\Users\l.hotchen\source\repos\CoffeeDecorator\CoffeeDecorator\bin\Debug\CoffeeDecorator.exe.config
+C:\Users\l.hotchen\source\repos\CoffeeDecorator\CoffeeDecorator\bin\Debug\CoffeeDecorator.exe
+C:\Users\l.hotchen\source\repos\CoffeeDecorator\CoffeeDecorator\bin\Debug\CoffeeDecorator.pdb
+C:\Users\l.hotchen\source\repos\CoffeeDecorator\CoffeeDecorator\obj\Debug\CoffeeDecorator.exe
+C:\Users\l.hotchen\source\repos\CoffeeDecorator\CoffeeDecorator\obj\Debug\CoffeeDecorator.pdb
